@@ -1,4 +1,4 @@
-module github.com/ALT-F4-LLC/fem-fd-service
+module github.com/pradeepkaswan/fem-fd-service
 
 go 1.24.2
 
